@@ -1,13 +1,4 @@
----
-title: 常用Git命令汇总
-date: 2020-04-10 18:02:41
-permalink: /pages/4d04de/
-categories:
-  - 开发者手册
-  - Git
-tags:
-  -
----
+# 常用Git命令汇总
 
 ![](https://cdn.jsdelivr.net/gh/jimdeng92/static_1/5.png)
 
@@ -19,7 +10,7 @@ tags:
 
 ### 1. 增加/删除文件
 
-``` shell
+``` git
 # 添加指定文件到暂存区
 $ git add [file1] [file2] ...
 
