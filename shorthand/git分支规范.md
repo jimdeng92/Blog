@@ -1,14 +1,3 @@
----
-title: git分支规范
-date: 2021-11-05 11:05:01
-permalink: /pages/5dba3c/
-categories: 
-  - 速记
-  - 杂项
-tags: 
-  - 
----
-
 ### master 分支
 
 - master 为主分支，也是用于部署生产环境的分支，确保 master 分支稳定性；
