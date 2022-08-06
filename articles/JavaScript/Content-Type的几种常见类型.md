@@ -1,15 +1,7 @@
----
-title: Content-Type的几种常见类型
-date: 2020-11-01 18:03:28
-permalink: /pages/40e80e/
-categories: 
-  - 开发者手册
-  - JavaScript
-tags: 
-  - 
----
+# Content-Type的几种常见类型
 
 > 转自：[Content-type的几种常见类型](https://www.jianshu.com/p/ba40da728806)
+
 ### 一、是什么？
 
 是Http的实体首部字段，用于说明请求或返回的消息主体是用何种方式编码，在request header和response header里都存在。
