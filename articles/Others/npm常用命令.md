@@ -1,13 +1,4 @@
----
-title: npm常用命令
-date: 2021-11-25 16:46:08
-permalink: /pages/12233e/
-categories: 
-  - 开发者手册
-  - Others
-tags: 
-  - 
----
+# npm常用命令
 
 ### 查找帮助
 
