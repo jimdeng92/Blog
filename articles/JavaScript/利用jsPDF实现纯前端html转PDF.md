@@ -1,13 +1,4 @@
----
-title: 利用jsPDF实现纯前端html转PDF
-date: 2021-11-04 14:44:53
-permalink: /pages/9c412d/
-categories: 
-  - 开发者手册
-  - JavaScript
-tags: 
-  - 
----
+# 利用jsPDF实现纯前端html转PDF
 
 [jsPDF](https://github.com/parallax/jsPDF) 是前端一个非常优秀的库，它可以自定义 PDF 内容，包括在 PDF 中添加文字，图片，图形，表格等。
 
@@ -69,9 +60,7 @@ export default {
 
 下载 jsPDF 最新版本源码，打开项目下的 fontconverter/fontconverter.html 文件，**上传字体的 ttf 版本。（注意只能用ttf版本的字体）**
 
-::: center
 ![fontconverter.html截图](https://cdn.jsdelivr.net/gh/jimdeng92/static_1/微信截图_20211104153313.png)
-:::
 
 点击 Create 后会生成如下格式的js文件：
 
