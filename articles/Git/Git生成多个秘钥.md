@@ -1,15 +1,7 @@
----
-title: Git生成多个秘钥
-date: 2020-04-06 18:01:59
-permalink: /pages/fccbad/
-categories: 
-  - 开发者手册
-  - Git
-tags: 
-  - 
----
+# Git生成多个秘钥
 
-> 需求背景：我有一个 github 账户用来维护个人的博客，公司用的是 gitlab ，两个账号的邮箱不同，无法公用一个公钥文件。因此得创建多个公钥不会导致项目的 git 冲突。
+需求背景：我有一个 github 账户用来维护个人的博客，公司用的是 gitlab ，两个账号的邮箱不同，无法公用一个公钥文件。因此得创建多个公钥不会导致项目的 git 冲突。
+
 ### 创建文件
 
 进入文件夹：`cd ~/.ssh`，生成 ssh key：`ssh-keygen -t rsa -C "your_email@example.com"`。
@@ -29,9 +21,7 @@ User your_email@example.com
 # 多个公钥可在后面继续添加其他配置
 ```
 
-::: warning
-注意默认的 id_rsa 不需要配置。
-:::
+**注意默认的 id_rsa 不需要配置。**
 
 | 字段 | 说明 |
 | -- | -- |
