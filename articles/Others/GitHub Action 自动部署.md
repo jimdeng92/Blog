@@ -1,13 +1,4 @@
----
-title: GitHub Action 自动部署
-date: 2021-12-09 11:14:31
-permalink: /pages/d971a3/
-categories: 
-  - 开发者手册
-  - Others
-tags: 
-  - 
----
+# GitHub Action 自动部署
 
 ## 前言
 
