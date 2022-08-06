@@ -1,13 +1,4 @@
----
-title: vue-template-h5
-date: 2021-11-25 15:06:38
-permalink: /pages/82ea73/
-categories: 
-  - 开发者手册
-  - Vue
-tags: 
-  - 
----
+# vue-template-h5
 
 近期开发一个公众号网页工具，刚好用用 Vue3，但是没有好的脚手架模板，搭建过程花了不少时间，因此打算把它抽离出来用作 H5 开发的模板。项目托管在我的 [GitHub](https://github.com/jimdeng92/vue3-template-h5) 上，需要的直接下载即可。
 
