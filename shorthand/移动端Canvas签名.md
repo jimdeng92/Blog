@@ -1,13 +1,4 @@
----
-title: 移动端Canvas签名
-date: 2020-06-17 18:10:41
-permalink: /pages/9be96b/
-categories: 
-  - 速记
-  - 代码
-tags: 
-  - 
----
+# 移动端Canvas签名
 
 根组件：
 
