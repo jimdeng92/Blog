@@ -1,17 +1,7 @@
----
-title: Mustache语法原理
-date: 2021-07-21 18:19:05
-permalink: /pages/bacbc4/
-categories: 
-  - 开发者手册
-  - Vue
-tags: 
-  - 
----
+# Mustache语法原理
 
 使用过 vue 的都知道一个基本用法，就是在模板中使用变量需要用双大括号包裹变量。
 
-::: tip
 vue 官方文档也有说明：
 数据绑定最常见的形式就是使用“Mustache”语法 (双大括号) 的文本插值：
 
@@ -20,8 +10,6 @@ vue 官方文档也有说明：
   <span>Message: {{ msg }}</span>
 </template>
 ```
-
-:::
 
 vue 借鉴的就是 Mustache 这个库，Mustache 算是今天前端模板语法的祖师爷了。那么我们来一起回顾一下前端模板语法的发展历程和 Mustache 的基本原理。
 
