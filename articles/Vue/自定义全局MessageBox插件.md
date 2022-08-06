@@ -1,13 +1,4 @@
----
-title: 自定义全局MessageBox插件
-date: 2021-09-15 18:20:35
-permalink: /pages/81c604/
-categories: 
-  - 开发者手册
-  - Vue
-tags: 
-  - 
----
+# 自定义全局MessageBox插件
 
 这两天用 Element 搞开发的过程中，由于对系统有一定的 UI 要求，它的弹窗是长这样的：
 
