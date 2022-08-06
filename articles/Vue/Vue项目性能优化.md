@@ -1,15 +1,7 @@
----
-title: Vue项目性能优化
-date: 2020-05-11 18:07:02
-permalink: /pages/e42db1/
-categories: 
-  - 开发者手册
-  - Vue
-tags: 
-  - 
----
+# Vue项目性能优化
 
 > 本文转载自[我是你的超级英雄.掘金](https://juejin.im/post/5d548b83f265da03ab42471d#heading-2)，作者主要从3个方面提出了优化方案：Vue代码层面的优化；webpack配置层面的优化；web技术层面的优化。
+
 ### 代码层面的优化
 
 + **v-if和v-show区分使用场景**
