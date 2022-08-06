@@ -1,13 +1,4 @@
----
-title: 详解Promise
-date: 2021-12-29 18:16:59
-permalink: /pages/211ef2/
-categories: 
-  - 开发者手册
-  - JavaScript
-tags: 
-  - 
----
+# 详解Promise
 
 > 本文参考阮一峰 《ES6教程》 [Promise 章节](https://es6.ruanyifeng.com/#docs/promise)编写，仅是作者学习阮大神的写作思路和方法，并无抄袭照搬之意。
 
@@ -66,7 +57,6 @@ promise
 
 这两个回调函数都是可选的，我们不一定要提供，这就是上文提到的，如果我们不写 `catch` 回调，就无法捕获到 `Promise` 实例内部抛出的错误了。
 
-::: tip
 也可以在 `then` 参数里定义第二个回调函数来取代 `catch`，但这样 `catch` 就无法捕获 `then` 中的错误了，因此**建议总是使用 `promise.then().catch()`**。
 
 ``` js
@@ -81,7 +71,6 @@ Promise.resolve()
 ```
 
 无法捕获到第一个回调中的错误。
-:::
 
 #### 立即执行
 
@@ -102,8 +91,6 @@ console.log(2)
 上面的示例会依次打印 1，2，3。
 
 这里表现跟 `setTimeout(() => {}, 0)` 不一样，涉及到事件循环（Event Loop）和宏（微）任务，请自行百度。
-
-::: warning
 
 调用 `resolve` 或 `reject` 后，后面的代码还会继续执行。
 
@@ -130,7 +117,6 @@ console.log(2)
 因为 `resolve()` 调用后，后面的代码还是会继续执行。而改变了状态的 `Promise` 是在本轮事件循环的末尾执行，总是晚于本轮循环的同步任务。
 
 一般来说，调用 `resolve()` 或 `reject()` 以后，`Promise` 的使命就完成了，后继操作应该放到 then 方法里面，而不应该直接写在 resolve 或 reject 的后面。所以，最好在它们前面加上 return 语句，这样就不会有意外。
-:::
 
 #### 链式调用
 
@@ -240,7 +226,6 @@ p.then(([res1, res2, res3]) => {
 })
 ```
 
-::: warning
 需要注意的是，作为参数的 `Promise` 实例，如果自己已经定义了 catch 方法，那么它一旦被 rejected，就不会触发 `Promise.all()` 的 catch 方法了。
 
 同样，作为参数的 `Promise` 实例，如果自己已经定义了 then 方法，那么在 `Promise.all()` 的 then 回调参数中，值为 undefined。
@@ -276,7 +261,6 @@ Promise.all([p1, p2])
 如果我们取消 `p1` 后的 catch 回调，由于 `p2` 的 catch 回调要 2 秒后才执行，而 `Promise.all()` 只要有一个参数 rejected，就会进入 catch，`p1` 在 1 秒后就 rejected 了。
 
 所以代码执行后 1 秒后会打印 "Promise.all" "p1"，2 秒后还是会打印 "p2" "p2"。
-:::
 
 
 #### Promise.race()
