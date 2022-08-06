@@ -1,13 +1,4 @@
----
-title: Windows下CMD常用命令
-date: 2021-11-05 15:23:40
-permalink: /pages/4053f5/
-categories: 
-  - 开发者手册
-  - Others
-tags: 
-  - 
----
+# Windows下CMD常用命令
 
 ## 常用命令
 
