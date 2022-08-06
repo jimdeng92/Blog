@@ -1,11 +1,12 @@
----
-title: vscode快捷键
-date: 2022-02-10 10:04:46
-permalink: /pages/be8575/
-categories: 
-  - 速记
-  - 杂项
-tags: 
-  - 
----
-![vscodekeybindings](https://cdn.jsdelivr.net/gh/jimdeng92/static_1@main/vscodekeybindings.75xkd23hqso0.png)
+# Visual Studio Code 快捷键
+
+## 通用
+
+| 快捷键 | 功能 |
+| --- | --- |
+| `Ctrl + Shift + P`, `F1` | 展示全局命令面板 |
+| `Ctrl + P` | 快速打开最近打开的文件 |
+| `Ctrl + Shift + N` | 打开新的编辑器窗口 |
+| `Ctrl + Shift + W` | 关闭编辑器 |
+| `Ctrl + ,` | 调出设置界面 |
+| `Ctrl + K` `Ctrl + S` | 调出键盘快捷方式界面 |
