@@ -1,17 +1,6 @@
----
-title: Webpack配置概览
-date: 2019-08-09 16:28:31
-permalink: /pages/ad5d7c/
-categories: 
-  - 开发者手册
-  - Webpack
-tags: 
-  - 
----
+# Webpack配置概览
 
-::: tip
-本文根据《Webpack 实战：入门、进阶与调优》整理。限于篇幅，部分内容可能难以理解，建议直接阅读书籍并对比示例。
-:::
+*本文根据《Webpack 实战：入门、进阶与调优》整理。限于篇幅，部分内容可能难以理解，建议直接阅读书籍并对比示例。*
 
 ## webpack简介
 
