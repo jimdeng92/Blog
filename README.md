@@ -5,10 +5,10 @@
 
 ## 文章
 
-- JavaScript
+- [JavaScript](https://github.com/jimdeng92/Blog/labels/JavaScript)
   - [前端实现图片压缩上传](https://github.com/jimdeng92/Blog/issues/4)
   - [详解Promise](https://github.com/jimdeng92/Blog/issues/5)
-- Git
+- [Git](https://github.com/jimdeng92/Blog/labels/JavaScript)
   - [Git Commit 规范](https://github.com/jimdeng92/Blog/issues/3)
 
 
