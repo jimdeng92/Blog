@@ -5,8 +5,8 @@
 
 ## 文章
 
-- [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
-- [Git Commit 规范](https://github.com/jimdeng92/Blog/issues/3)
+1. [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
+2. [Git Commit 规范](https://github.com/jimdeng92/Blog/issues/3)
 
 
 
@@ -16,4 +16,4 @@
 
 
 
-- [收藏](https://github.com/jimdeng92/Blog/issues/2)
+3. [收藏](https://github.com/jimdeng92/Blog/issues/2)
