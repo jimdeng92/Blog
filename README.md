@@ -12,6 +12,6 @@
   - [Git Commit 规范](https://github.com/jimdeng92/Blog/issues/3)
 
 
-- 杂项
+- [杂项](https://github.com/jimdeng92/Blog/labels/%E6%9D%82%E9%A1%B9)
   - [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
-- [收藏](https://github.com/jimdeng92/Blog/issues/2)
+  - [书签](https://github.com/jimdeng92/Blog/issues/2)
