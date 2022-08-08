@@ -5,8 +5,9 @@
 
 ## 文章
 
-1. [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
-2. [Git Commit 规范](https://github.com/jimdeng92/Blog/issues/3)
+1. [前端实现图片压缩上传](https://github.com/jimdeng92/Blog/issues/4)
+2. [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
+3. [Git Commit 规范](https://github.com/jimdeng92/Blog/issues/3)
 
 
 
@@ -16,4 +17,4 @@
 
 
 
-3. [收藏](https://github.com/jimdeng92/Blog/issues/2)
+[收藏](https://github.com/jimdeng92/Blog/issues/2)
