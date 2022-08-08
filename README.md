@@ -5,17 +5,13 @@
 
 ## 文章
 
-1. [前端实现图片压缩上传](https://github.com/jimdeng92/Blog/issues/4)
-2. [详解Promise](https://github.com/jimdeng92/Blog/issues/5)
-3. [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
-4. [Git Commit 规范](https://github.com/jimdeng92/Blog/issues/3)
+- JavaScript
+  - [前端实现图片压缩上传](https://github.com/jimdeng92/Blog/issues/4)
+  - [详解Promise](https://github.com/jimdeng92/Blog/issues/5)
+- Git
+  - [Git Commit 规范](https://github.com/jimdeng92/Blog/issues/3)
 
 
-
-
-
-
-
-
-
-[收藏](https://github.com/jimdeng92/Blog/issues/2)
+- 杂项
+  - [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
+- [收藏](https://github.com/jimdeng92/Blog/issues/2)
