@@ -10,6 +10,8 @@
   - [encodeURI & decodeURI](https://github.com/jimdeng92/Blog/issues/15)
   - [详解Promise](https://github.com/jimdeng92/Blog/issues/5)
   - [Content-Type的几种类型](https://github.com/jimdeng92/Blog/issues/10)
+- React
+  - [React实现分页组件](https://github.com/jimdeng92/Blog/issues/17)
 - [Git](https://github.com/jimdeng92/Blog/labels/JavaScript)
   - [Git Commit 规范](https://github.com/jimdeng92/Blog/issues/3)
   - [Git生成多个秘钥](https://github.com/jimdeng92/Blog/issues/7)
