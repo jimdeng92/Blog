@@ -5,6 +5,7 @@
   - [JavaScript基础之闭包](https://github.com/jimdeng92/Blog/issues/11)
   - [JavaScript基础之this](https://github.com/jimdeng92/Blog/issues/12)
   - [JavaScript基础之手写call/apply/bind](https://github.com/jimdeng92/Blog/issues/13)
+  - [JavaScript基础之原型和原型链](https://github.com/jimdeng92/Blog/issues/14)
   - [详解Promise](https://github.com/jimdeng92/Blog/issues/5)
   - [Content-Type的几种类型](https://github.com/jimdeng92/Blog/issues/10)
 - [Git](https://github.com/jimdeng92/Blog/labels/JavaScript)
