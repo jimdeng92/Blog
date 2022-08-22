@@ -2,6 +2,7 @@
 
 - [JavaScript](https://github.com/jimdeng92/Blog/labels/JavaScript)
   - [前端实现图片压缩上传](https://github.com/jimdeng92/Blog/issues/4)
+  - [JavaScript基础之手写call/apply/bind](https://github.com/jimdeng92/Blog/issues/13)
   - [详解Promise](https://github.com/jimdeng92/Blog/issues/5)
   - [Content-Type的几种类型](https://github.com/jimdeng92/Blog/issues/10)
 - [Git](https://github.com/jimdeng92/Blog/labels/JavaScript)
