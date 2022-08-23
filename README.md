@@ -10,17 +10,23 @@
   - [encodeURI & decodeURI](https://github.com/jimdeng92/Blog/issues/15)
   - [详解Promise](https://github.com/jimdeng92/Blog/issues/5)
   - [Content-Type的几种类型](https://github.com/jimdeng92/Blog/issues/10)
-- Vue
+  - [利用jsPDF实现纯前端html转PDF](https://github.com/jimdeng92/Blog/issues/19)
+ 
+- [Vue](https://github.com/jimdeng92/Blog/labels/Vue)
   - [Vue原理之Mustache](https://github.com/jimdeng92/Blog/issues/18)
-- React
+ 
+- [React](https://github.com/jimdeng92/Blog/labels/React)
   - [React实现分页组件](https://github.com/jimdeng92/Blog/issues/17)
+ 
 - [Git](https://github.com/jimdeng92/Blog/labels/JavaScript)
   - [Git Commit 规范](https://github.com/jimdeng92/Blog/issues/3)
   - [Git生成多个秘钥](https://github.com/jimdeng92/Blog/issues/7)
   - [常用的Git命令](https://github.com/jimdeng92/Blog/issues/8)
   - [建议使用的几个git命令](https://github.com/jimdeng92/Blog/issues/9)
+ 
 - [CSS](https://github.com/jimdeng92/Blog/labels/CSS)
   - [:nth-child和:nth-of-type的区别](https://github.com/jimdeng92/Blog/issues/6)
+ 
 - [杂项](https://github.com/jimdeng92/Blog/labels/%E6%9D%82%E9%A1%B9)
   - [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
   - [书签](https://github.com/jimdeng92/Blog/issues/2)
