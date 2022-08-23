@@ -1,4 +1,6 @@
-# Blog
+# Jim's Blog
+
+### 文章
 
 - [JavaScript](https://github.com/jimdeng92/Blog/labels/JavaScript)
   - [前端实现图片压缩上传](https://github.com/jimdeng92/Blog/issues/4)
@@ -42,3 +44,7 @@
   - [GitHub Action 自动部署](https://github.com/jimdeng92/Blog/issues/22)
   - [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
   - [书签](https://github.com/jimdeng92/Blog/issues/2)
+
+### TODO
+
+- [ ] 浏览器调试技巧
