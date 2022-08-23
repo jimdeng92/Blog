@@ -7,6 +7,7 @@
   - [JavaScript基础之手写call/apply/bind](https://github.com/jimdeng92/Blog/issues/13)
   - [JavaScript基础之原型和原型链](https://github.com/jimdeng92/Blog/issues/14)
   - [JavaScript基础之函数柯里化](https://github.com/jimdeng92/Blog/issues/16)
+  - [JavaScript基础之防抖和节流](https://github.com/jimdeng92/Blog/issues/21)
   - [encodeURI & decodeURI](https://github.com/jimdeng92/Blog/issues/15)
   - [详解Promise](https://github.com/jimdeng92/Blog/issues/5)
   - [Content-Type的几种类型](https://github.com/jimdeng92/Blog/issues/10)
