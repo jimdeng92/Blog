@@ -11,6 +11,7 @@
   - [详解Promise](https://github.com/jimdeng92/Blog/issues/5)
   - [Content-Type的几种类型](https://github.com/jimdeng92/Blog/issues/10)
   - [利用jsPDF实现纯前端html转PDF](https://github.com/jimdeng92/Blog/issues/19)
+  - [工作中如何进行前端性能优化(21种优化+7种定位方式)](https://github.com/jimdeng92/Blog/issues/20)
  
 - [Vue](https://github.com/jimdeng92/Blog/labels/Vue)
   - [Vue原理之Mustache](https://github.com/jimdeng92/Blog/issues/18)
