@@ -20,7 +20,10 @@
  
 - [React](https://github.com/jimdeng92/Blog/labels/React)
   - [React实现分页组件](https://github.com/jimdeng92/Blog/issues/17)
- 
+
+- [Webpack](https://github.com/jimdeng92/Blog/labels/Webpack)
+  - [Webpack基础配置](https://github.com/jimdeng92/Blog/issues/25)
+
 - [Git](https://github.com/jimdeng92/Blog/labels/JavaScript)
   - [Git Commit 规范](https://github.com/jimdeng92/Blog/issues/3)
   - [Git生成多个秘钥](https://github.com/jimdeng92/Blog/issues/7)
