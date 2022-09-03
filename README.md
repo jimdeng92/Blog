@@ -21,6 +21,7 @@
 - [Vue](https://github.com/jimdeng92/Blog/labels/Vue)
   - [Vue原理之Mustache](https://github.com/jimdeng92/Blog/issues/18)
   - [基于Vue+ElementUI自定义全局MessageBox组件](https://github.com/jimdeng92/Blog/issues/26)
+  - [vue疑问解答](https://github.com/jimdeng92/Blog/issues/28)
  
 - [React](https://github.com/jimdeng92/Blog/labels/React)
   - [React实现分页组件](https://github.com/jimdeng92/Blog/issues/17)
