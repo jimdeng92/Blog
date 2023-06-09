@@ -45,6 +45,7 @@
   - [GitHub Action 自动部署](https://github.com/jimdeng92/Blog/issues/22)
   - [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
   - [书签](https://github.com/jimdeng92/Blog/issues/2)
+  - [Whistle 打造最优雅的Mock方式](https://github.com/jimdeng92/Blog/issues/29)
 
 ### TODO
 
