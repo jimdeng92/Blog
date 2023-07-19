@@ -46,6 +46,7 @@
   - [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
   - [书签](https://github.com/jimdeng92/Blog/issues/2)
   - [Whistle 打造最优雅的Mock方式](https://github.com/jimdeng92/Blog/issues/29)
+  - [优秀网站收藏](https://github.com/jimdeng92/Blog/issues/30)
 
 ### TODO
 
