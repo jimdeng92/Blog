@@ -42,6 +42,7 @@
   - [彻底理解浏览器缓存机制](https://github.com/jimdeng92/Blog/issues/23)
  
 - [Others](https://github.com/jimdeng92/Blog/labels/Others)
+  - [什么是代码评审（Code Review）](https://github.com/jimdeng92/Blog/issues/31)
   - [GitHub Action 自动部署](https://github.com/jimdeng92/Blog/issues/22)
   - [Visual Studio Code 快捷键](https://github.com/jimdeng92/Blog/issues/1)
   - [优秀软件收藏](https://github.com/jimdeng92/Blog/issues/2)
