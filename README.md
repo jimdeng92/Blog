@@ -2,8 +2,8 @@
 
 ### 文章
 
-- [JavaScript](https://github.com/jimdeng92/Blog/labels/JavaScript)
-  - [前端实现图片压缩上传](https://github.com/jimdeng92/Blog/issues/4)
+- [JavaScript](https://github.com/jimdeng92/Blog/labels/JavaScript) 
+  - [前端实现图片压缩上传](https://github.com/jimdeng92/Blog/issues/4) ❤
   - [JavaScript基础之闭包](https://github.com/jimdeng92/Blog/issues/11)
   - [JavaScript基础之this](https://github.com/jimdeng92/Blog/issues/12)
   - [JavaScript基础之手写call/apply/bind](https://github.com/jimdeng92/Blog/issues/13)
