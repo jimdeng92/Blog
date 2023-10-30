@@ -34,6 +34,7 @@
   - [Git生成多个秘钥](https://github.com/jimdeng92/Blog/issues/7)
   - [常用的Git命令](https://github.com/jimdeng92/Blog/issues/8)
   - [建议使用的几个git命令](https://github.com/jimdeng92/Blog/issues/9)
+  - [使用 husky 自动更新项目版本号](https://github.com/jimdeng92/Blog/issues/32)
  
 - [CSS](https://github.com/jimdeng92/Blog/labels/CSS)
   - [:nth-child和:nth-of-type的区别](https://github.com/jimdeng92/Blog/issues/6)
