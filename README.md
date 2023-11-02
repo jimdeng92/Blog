@@ -17,6 +17,7 @@
   - [工作中如何进行前端性能优化(21种优化+7种定位方式)](https://github.com/jimdeng92/Blog/issues/20)
   - [斐波那契数列](https://github.com/jimdeng92/Blog/issues/24)
   - [数组排序处理空值](https://github.com/jimdeng92/Blog/issues/27)
+  - [Axios请求拦截](https://github.com/jimdeng92/Blog/issues/33) ⭐
  
 - [Vue](https://github.com/jimdeng92/Blog/labels/Vue)
   - [Vue原理之Mustache](https://github.com/jimdeng92/Blog/issues/18) ⭐
