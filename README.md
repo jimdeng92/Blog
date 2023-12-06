@@ -51,6 +51,7 @@
   - [优秀软件收藏](https://github.com/jimdeng92/Blog/issues/2)
   - [Whistle 打造最优雅的Mock方式](https://github.com/jimdeng92/Blog/issues/29)
   - [优秀网站收藏](https://github.com/jimdeng92/Blog/issues/30) ⭐
+  - [自定义 env 目录解决方案](https://github.com/jimdeng92/Blog/issues/36)
 
 ### TODO
 
