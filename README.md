@@ -18,6 +18,7 @@
   - [斐波那契数列](https://github.com/jimdeng92/Blog/issues/24)
   - [数组排序处理空值](https://github.com/jimdeng92/Blog/issues/27)
   - [Axios请求拦截](https://github.com/jimdeng92/Blog/issues/33) ⭐
+  - [接口数据缓存](https://github.com/jimdeng92/Blog/issues/41)
  
 - [Vue](https://github.com/jimdeng92/Blog/labels/Vue)
   - [Vue原理之Mustache](https://github.com/jimdeng92/Blog/issues/18) ⭐
