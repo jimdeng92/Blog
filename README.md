@@ -56,6 +56,7 @@
   - [优秀网站收藏](https://github.com/jimdeng92/Blog/issues/30) ⭐
   - [自定义 env 目录解决方案](https://github.com/jimdeng92/Blog/issues/36)
   - [正则表达式](https://github.com/jimdeng92/Blog/issues/38)
+  - [IDE 激活](https://github.com/jimdeng92/Blog/issues/42)
 
 ### TODO
 
